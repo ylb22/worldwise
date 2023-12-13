@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Macao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-10T17:37:27.175Z",
+      "notes": "",
+      "position": {
+        "lat": "39.506192329586014",
+        "lng": "-8.020019531250002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Arouca",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-13T13:11:15.043Z",
+      "notes": "",
+      "position": {
+        "lat": "40.91543208177949",
+        "lng": "-8.261718750000002"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Trabadelo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-13T13:33:55.226Z",
+      "notes": "",
+      "position": {
+        "lat": "42.65131335583465",
+        "lng": "-6.855468750000001"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "San Ildefonso",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-13T13:44:15.977Z",
+      "notes": "",
+      "position": {
+        "lat": "40.79717741518769",
+        "lng": "-4.064941406250001"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Sidi Djilali",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-10-13T13:44:40.060Z",
+      "notes": "",
+      "position": {
+        "lat": "34.33991523985028",
+        "lng": "-1.40625"
+      },
+      "id": 9
+    }
+  ]
+}
